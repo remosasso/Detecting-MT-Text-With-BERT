@@ -1,5 +1,5 @@
 # Detecting Machine Translated Text using BERT
-A BERT-based approach to the binary classification task of human vs. machine translated subtitles.
+A BERT-based approach to the binary classification task of human vs. machine translated subtitles. [Paper](Detecting MT using BERT.pdf)
 
 In order to train a BERT model the following steps need to be taken:
 - 1. Download a BERT model that you want to use from the original BERT repository (https://github.com/google-research/bert) and extract it into the /bert-code/model/ folder. Currently there is a BERT-tiny model present in that directory: remove it or create a new model directory to use another model.
